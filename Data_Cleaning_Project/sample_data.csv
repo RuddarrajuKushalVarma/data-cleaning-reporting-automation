@@ -1,0 +1,8 @@
+Name,Age,Department,Salary
+John,25,IT,50000
+Alice,30,HR,60000
+Bob,,Finance,55000
+John,25,IT,50000
+Emma,28,,62000
+David,35,Marketing,
+Sophia,29,HR,58000
